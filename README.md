@@ -5,4 +5,4 @@ I added a few GUI controls to the polygon example from the OpenFrameworks exampl
   - A sound play button
   
   
-![polygon drawing with GUI controls](assets/screenshot.jpg)
+![polygon drawing with GUI controls](screenshot.jpg)
